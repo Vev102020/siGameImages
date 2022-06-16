@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/siGameImages/static/css/main.54654ddc.css",
+    "main.js": "/siGameImages/static/js/main.80f81ad1.js",
+    "static/js/787.7fea36f0.chunk.js": "/siGameImages/static/js/787.7fea36f0.chunk.js",
+    "static/media/bg.png": "/siGameImages/static/media/bg.86b4cc0aa31e88391ae7.png",
+    "static/media/14.jpg": "/siGameImages/static/media/14.d40a957c89b22d9f7840.jpg",
+    "static/media/18.jpg": "/siGameImages/static/media/18.fda9229b73df5494424b.jpg",
+    "static/media/15.jpg": "/siGameImages/static/media/15.a1638fe0bda6d9cb8304.jpg",
+    "static/media/9.jpg": "/siGameImages/static/media/9.59ba054b1f2fd7495974.jpg",
+    "static/media/8.jpg": "/siGameImages/static/media/8.5a6fc52b5b54bdf6cf19.jpg",
+    "static/media/12.jpg": "/siGameImages/static/media/12.b054100e87a1491f8b1e.jpg",
+    "static/media/1.jpg": "/siGameImages/static/media/1.7804602e67e57b3e204d.jpg",
+    "static/media/16.jpg": "/siGameImages/static/media/16.e5a7f3ac7d449112ce51.jpg",
+    "static/media/20.jpg": "/siGameImages/static/media/20.45547ebee356f6daa997.jpg",
+    "static/media/5.jpg": "/siGameImages/static/media/5.7d0166f97fe32ae66b1b.jpg",
+    "static/media/4.jpg": "/siGameImages/static/media/4.3bcabea55483226b2689.jpg",
+    "static/media/2.jpg": "/siGameImages/static/media/2.93c4c45196400a88808b.jpg",
+    "static/media/17.jpg": "/siGameImages/static/media/17.5b3d75ca997657bed34a.jpg",
+    "static/media/3.jpg": "/siGameImages/static/media/3.a55208bcb521eafb7d3b.jpg",
+    "static/media/7.jpg": "/siGameImages/static/media/7.4f1af519c2b11f0b2759.jpg",
+    "static/media/19.jpg": "/siGameImages/static/media/19.351386aa37c9515bc7d9.jpg",
+    "static/media/10.jpg": "/siGameImages/static/media/10.876f7fd7a9054e12703d.jpg",
+    "static/media/6.jpg": "/siGameImages/static/media/6.c1673a684e8f94320c21.jpg",
+    "static/media/11.jpg": "/siGameImages/static/media/11.eb922e98d200f5b8bba7.jpg",
+    "static/media/13.jpg": "/siGameImages/static/media/13.63f4395a56490ade2e2c.jpg",
+    "static/media/logo.svg": "/siGameImages/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/siGameImages/index.html",
+    "main.54654ddc.css.map": "/siGameImages/static/css/main.54654ddc.css.map",
+    "main.80f81ad1.js.map": "/siGameImages/static/js/main.80f81ad1.js.map",
+    "787.7fea36f0.chunk.js.map": "/siGameImages/static/js/787.7fea36f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54654ddc.css",
+    "static/js/main.80f81ad1.js"
+  ]
+}
