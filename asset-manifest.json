@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/siGameImages/static/css/main.12cac220.css",
+    "main.css": "/siGameImages/static/css/main.234e1a52.css",
     "main.js": "/siGameImages/static/js/main.80f81ad1.js",
     "static/js/787.7fea36f0.chunk.js": "/siGameImages/static/js/787.7fea36f0.chunk.js",
     "static/media/bg.png": "/siGameImages/static/media/bg.86b4cc0aa31e88391ae7.png",
@@ -26,12 +26,12 @@
     "static/media/13.jpg": "/siGameImages/static/media/13.63f4395a56490ade2e2c.jpg",
     "static/media/logo.svg": "/siGameImages/static/media/logo.6ce24c58023cc2f8fd88.svg",
     "index.html": "/siGameImages/index.html",
-    "main.12cac220.css.map": "/siGameImages/static/css/main.12cac220.css.map",
+    "main.234e1a52.css.map": "/siGameImages/static/css/main.234e1a52.css.map",
     "main.80f81ad1.js.map": "/siGameImages/static/js/main.80f81ad1.js.map",
     "787.7fea36f0.chunk.js.map": "/siGameImages/static/js/787.7fea36f0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12cac220.css",
+    "static/css/main.234e1a52.css",
     "static/js/main.80f81ad1.js"
   ]
 }
